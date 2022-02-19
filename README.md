@@ -11,4 +11,4 @@ Password: admin123
 Link Repository [https://github.com/SyauqiPratama/Aplikasi-Pengelolaan-Laundry-MELOUNDRY.git] <br>
 Link Website [https://meloundry.000webhostapp.com/]
 
-🥰 Kunjungi juga website portofolio aku di [https://syauqi.webz.biz/] 🥰 
+Kunjungi juga website portofolio aku di [https://syauqi.webz.biz/]
