@@ -1,5 +1,5 @@
 # Aplikasi-Pengelolaan-Laundry-MELOUNDRY
-<a href="https://meloundry.000webhostapp.com/" target="_blank"></a> <br> 
+<a href="https://meloundry.000webhostapp.com/" target="_blank">cek</a> <br> 
 By: M. Syauqi Pratama - XII RPL 1
 
 Bismillahirrohmanirrohim, Assalamu'alaikum Warohmatullahi Wabarokatuh. Izin share Aplikasi meloundry. Meloundry ini adalah nama dari sebuah aplikasi pengelolaan laundry berbasis website yang dibangun menggunakan framework PHP CodeIgniter 3, framework CSS Bootstrap 5, jQuery + Ajax, dan Database MariaDB / MySQL. 
